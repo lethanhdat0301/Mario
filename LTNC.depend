@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1678789905 source:e:\sdlnew\ltnc\main.cpp
+1679274348 source:e:\sdlnew\ltnc\main.cpp
 	<iostream>
 	<SDL.h>
 	<SDL_image.h>
